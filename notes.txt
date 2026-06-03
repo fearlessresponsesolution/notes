@@ -1,0 +1,60 @@
+# Terminal
+mkdir -p ~/.local/share/xfce4/terminal/colorschemes
+vim ~/.local/share/xfce4/terminal/colorschemes/Purify.theme
+[Scheme]
+Name=Purify
+ColorForeground=#f8f8f2
+ColorBackground=#1c1c1c
+ColorCursor=#f8f8f2
+ColorPalette=#1c1c1c;#ff79c6;#70ffd2;#f1fa8c;#b084eb;#ff92df;#a4ffff;#e2e2dc;#50fa7b;#ff5555;#50fa7b;#f1fa8c;#bd93f9;#ff79c6;#8be9fd;#ffffff
+ColorBold=#f8f8f2
+
+# omp
+https://github.com/can1357/oh-my-pi
+https://www.npmjs.com/package/pi-subagents
+https://www.npmjs.com/package/context-mode
+https://www.npmjs.com/package/pi-web-access
+https://www.npmjs.com/package/@plannotator/pi-extension
+https://www.npmjs.com/package/@gotgenes/pi-subagents
+https://www.npmjs.com/package/pi-powerline-footer
+https://www.npmjs.com/package/pi-hermes-memory
+https://www.npmjs.com/package/@aliou/pi-guardrails
+
+# Obsidian
+https://github.com/gmiles32/obsout
+
+# Mythic
+https://docs.mythic-c2.net/internal-documentation
+https://github.com/MythicC2Profiles/httpx
+https://github.com/MythicAgents/Apollo/tree/master
+https://github.com/MythicAgents/forge
+
+
+
+# MCP
+https://github.com/MorDavid/BloodHound-MCP-AI
+https://github.com/0x4m4/hexstrike-ai
+
+/// Rate limiting
+
+# Evasion
+https://github.com/Vith0r/StackSentry
+--- Sub Pages
+https://github.com/klezVirus/SilentMoonwalk
+https://github.com/klezVirus/byoud
+https://github.com/klezvirus/ThreadPoolExecChain
+https://github.com/Vith0r/RefinedPool/tree/main/RefinedPool
+https://github.com/paranoidninja/Proxy-DLL-Loads
+https://github.com/Vith0r/RefinedPool/tree/main/RefinedPool
+
+
+https://github.com/thomasxm/Boaz_beta
+https://github.com/SECFORCE/SharpWhispers
+https://github.com/28Zaaky/PHANTOM-ROOTKIT
+https://github.com/Flangvik/SharpCollection
+https://github.com/sliverarmory/armory/tree/master
+callstack spoofing, indirect syscalls, ETW patch, AMSI bypass, userland unhooking
+https://github.com/Sizeable-Bingus/MassDriver
+https://bigbingus.com/posts/stop-being-weird/
+https://github.com/thetobysiu/ManualMapInjection
+https://github.com/KyuuChiaki/Forwarder-Phantom
